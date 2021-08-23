@@ -5,16 +5,15 @@ This node app will prompt you to provide your name, gitHub username, and make it
 
 ## How to Use
 
-1. See the live website here: https://itsmeadriana.github.io/portfolio-generator/
-2. Alternatively, you may clone this repo, download the .zip file, and open "index.html" in your favorite browser!
+1. Clone this repo
+2. Download the .zip file 
+3. Open "index.html" in your favorite command line program
+4. Enter the command _node app_ and follow the prompts.
+5. Generate your portfolio!
 
-## Website Preview
+## Finished Product Preview
 
 ![alt text](https://github.com/itsmeadriana/portfolio-generator/blob/main/Hermione%20Granger%20portfolio.png?raw=true)
-
-## Website:
-
-https://itsmeadriana.github.io/portfolio-generator/
 
 # Built With:
 
