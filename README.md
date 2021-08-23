@@ -10,7 +10,7 @@ This node app will prompt you to provide your name, gitHub username, and make it
 
 ## Website Preview
 
-[coming soon]
+![alt text](https://github.com/itsmeadriana/portfolio-generator/blob/main/Hermione%20Granger%20portfolio.png?raw=true)
 
 ## Website:
 
